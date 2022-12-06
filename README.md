@@ -1,4 +1,4 @@
 # runikrush
-discord: lroxy#4010
+discord: lroxy#4011
 
 // Projeyi direk sitenize yüklemeniz yeterli olucaktı :)
